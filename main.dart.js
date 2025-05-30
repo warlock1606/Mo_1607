@@ -59812,7 +59812,7 @@ A.Gv.prototype={
 O(a){var s,r,q,p,o,n,m,l=this,k=null,j=t.D,i=A.o0(A.c([B.Aq,B.eM,B.zP],j),B.I,B.D,B.eg)
 i=A.a7B(A.c([new A.e5(B.fL,A.a93(B.N9,new A.a2K(l,a)),k),new A.e5(B.fL,A.a93(B.MM,new A.a2L(l,a)),k)],j),B.i,1,i)
 s=A.fU(10)
-r=A.a7J(A.a7N(A.fU(10),A.QI("assets/images/1.png",k,k,new A.a2M(),B.dx,1/0,1/0)),20,B.l,k)
+r=A.a7J(A.a7N(A.fU(10),A.QI("assets/images/tips_image.jpg",k,k,new A.a2M(),B.dx,1/0,1/0)),20,B.l,k)
 q=A.aq(B.c.ac(127.5),B.i.v()>>>16&255,B.i.v()>>>8&255,B.i.v()&255)
 p=A.fU(10)
 s=A.cA(k,A.DN(B.a7,A.c([r,A.cA(k,A.d1(A.c([A.cX("Find Your Dream Home",A.jR(k,k,B.x,k,k,k,k,k,k,k,k,32,k,k,B.ah,k,k,!0,k,k,k,k,k,k,k,k),B.ak),B.aj,A.cX("Reach Us for the best real estate deals in Town!",A.jR(k,k,B.l,k,k,k,k,k,k,k,k,22,k,k,B.ah,k,k,!0,k,k,k,k,k,k,k,k),B.ak)],j),B.I,B.D,B.eg),B.q,k,k,new A.d0(q,k,k,p,k,k,B.as),k,k,new A.b3(20,0,20,0),new A.b3(20,20,20,20),k,k,k)],j),B.eO),B.q,k,k,new A.d0(B.F,k,k,s,k,k,B.as),k,300,k,k,k,k,1/0)
